@@ -20,7 +20,7 @@ main_topic: the key topic extracted from the summary
 
 1. Clone & Install
 
-git clone git@github.com:NayabZak6/AICO-Summary.git
+git clone https://github.com/nayabzak/AICO-Summarizer.git
 cd aico_summarizer
 python -m venv venv
 
